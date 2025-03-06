@@ -1,2 +1,1 @@
-Acá podrás encontrar todo lo referente al proyecto, los documento y referencias, los códigos utilizados y los datos obtenidos.
-Descripción del proyecto:
+Acá podrás encontrar todo los documentos del proyecto: Referencias y Slides utlizadas de en las presentaciones, con sus respectivas fechas.
