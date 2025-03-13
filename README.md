@@ -4,7 +4,7 @@ Este proyecto tiene como objetivo desarrollar un modelo de aprendizaje automáti
 
 ## Descripción
 
-El proyecto consiste en diseñar e implementar un código de machine learning que procese y analice grabaciones de audio realizadas por los integrantes del equipo. A partir de las características extraídas de los sonidos, se entrena un modelo que permite determinar la cantidad de chicles dentro de la caja.
+El proyecto consiste en diseñar e implementar un código de machine learning que procese y analice grabaciones de audio realizadas por los integrantes del equipo. A partir de las características extraídas de los sonidos, se entrena un modelo que permite determinar la cantidad de mentas dentro de la caja.
 
 ## Estructura del Repositorio
 
